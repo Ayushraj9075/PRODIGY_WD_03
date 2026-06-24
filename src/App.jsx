@@ -18,15 +18,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px", textAlign: "center" }}>
-      <h1
-        style={{
-          frontSize: "2rem",
-          textAlign: "center",
-          wordBreak: "break-word",
-        }}
-        >
-        Local Store E-Commerce Platform
-        </h1>
+     <h1>Local Store E-Commerce Platform</h1>
 
       <h2>Products</h2>
 
