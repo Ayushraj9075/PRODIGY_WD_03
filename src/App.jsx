@@ -18,7 +18,15 @@ function App() {
 
   return (
     <div style={{ padding: "20px", textAlign: "center" }}>
-     <h1>Local Store E-Commerce Platform</h1>
+     <h1
+  style={{
+    fontSize: "1.8rem",
+    textAlign: "center",
+    lineHeight: "1.2",
+  }}
+>
+  Local Store E-Commerce Platform
+</h1>
 
       <h2>Products</h2>
 
